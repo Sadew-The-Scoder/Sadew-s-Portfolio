@@ -64,7 +64,7 @@
     height: 100px;
     z-index: 100;
     border-bottom: 1px solid white;
-      padding-bottom:20px;
+    padding-bottom: 10px;
   }
 
   header #menu-icon {
@@ -238,6 +238,7 @@
   @media (max-width: 600px) {
     header {
       border-bottom: none;
+      padding-bottom: 10px;
     }
 
     header nav {
